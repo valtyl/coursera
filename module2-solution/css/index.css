@@ -21,8 +21,8 @@ h1 {
     width: 90%;
     height: 160px;
     padding: 45px 10px 10px 10px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 10px;
     margin-bottom: 10px;
     font-size: 100%;
@@ -146,7 +146,7 @@ h1 {
     width: 91.66%;
     }
     .col-md-12 {
-    width: 105.5%;
+    width: 100%;
     }
 }
 
