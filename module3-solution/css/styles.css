@@ -53,7 +53,6 @@ body {
 
 #nav-list a {
     color: black;
-    text-align: center;
     background-color: white;
     border-top: 1px solid black;
 }
@@ -87,9 +86,8 @@ body {
     width: 90%;
     margin: auto;
 }
-h4.menu-item-title {
+#chicken, #beef, #sushi {
     padding: 10px 10px 0px 10px;
-    text-align: center;
 }
 .menu-item-details {
     text-align: left;
